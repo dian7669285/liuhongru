@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+
+<explain>发布案件相关</explain>
+<url>http://www.lawcheck.com.cn/lawCheck/lawCase/casepubwleft?issueType=0</url>
+<publish client="" case_content="呵呵" agent_place="1000" casecost_place="1000">请输入委托人姓名</publish>
+<publish client="张" case_content="呵呵" agent_place="1000" casecost_place="1000">委托人姓名请输入2-50字</publish>
+<publish client="刘欢" case_content="" agent_place="1000" casecost_place="1000">请填写案情描述！</publish>
+<publish client="刘欢" case_content="呵" agent_place="1000" casecost_place="1000">案情描述应输入2-800以内的字符！</publish>
+<publish client="刘欢" case_content="呵呵" agent_place="" casecost_place="1000">代理费不能为空！</publish>
+</info>
+
